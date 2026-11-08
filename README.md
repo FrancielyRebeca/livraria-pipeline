@@ -17,6 +17,8 @@ Projeto de Sistema de Vendas de uma Livraria.
 
 ![Visualização do Dashboard](dashboard/dashboard.png)
 
+---
+
 ## 📁 Estrutura do Projeto
 
 
